@@ -10,7 +10,7 @@ setup(
     long_description=long_description,
     url='',
     author='izabeera',
-    author_email='izabeera@gmail.com',
+    author_email='iza.stolarska@kidosoft.pl',
     license="Beerware",
     keywords="conversion",
     packages=find_packages('src', exclude=['example*']),
