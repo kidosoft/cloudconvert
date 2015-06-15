@@ -1,0 +1,5 @@
+requests==2.7.0
+six==1.9.0
+coverage==3.7.1
+mock==1.0.1
+Morelia==0.5.0
